@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    background-color: pink;
+    height: 260vh;
+}
+
+header{
+    background-color: rgb(252, 142, 197);
+}
+
+.container{
+    background-color: pink;
+}
+
+.introducao1{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.img1{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.letra{
+    color: white;
+    text-align: start;
+    margin-top: 20px;
+    padding: 5px;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: rgb(252, 142, 197);
+}
+
+.biografia{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.introducao2{
+    display: flex;
+    justify-content: center;
+}
+.letra2{
+    color: white;
+    text-align: start;
+    padding: 5px;
+    width: 400px;
+    height: 455px;
+    border-radius: 10px;
+    background-color: rgb(252, 142, 197);
+}
+
+.carreira{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.letra3{
+    color: white;
+    text-align: start;
+    padding: 5px;
+    width: 400px;
+    height: 495px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(252, 142, 197);
+}
+
+.aposentadoria{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.letra4{
+    color: white;
+    text-align: start;
+    padding: 5px;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(252, 142, 197);
+}
+
+.dia08{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.letra5{
+    color: white;
+    text-align: start;
+    padding: 5px;
+    width: 400px;
+    height: 625px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: rgb(252, 142, 197);
+}
